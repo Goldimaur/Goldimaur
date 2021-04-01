@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everthing .... 👍 . 
 - 🤔 I’m looking for help with " Data Structures And Algorithms " 	😅 .
 - 😄 Pronouns: Buddy/Friend . 
-- ⚡ Fun fact: love singing 	🎶 ...( Black lover 🖤 ) . 
+- ⚡ Fun fact: love singing 	🎶 ( Black lover 🖤 ) . 
 -->
