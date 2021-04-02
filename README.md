@@ -6,9 +6,8 @@
 - 😄 Pronouns: Buddy/Friend . 
 - ⚡ Fun fact: love singing 	🎶 ( Black lover 🖤 ) . 
 
-[![Goldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldimaur)](https://github.com/Goldimaur/github-readme-stats)
-
 ![Goldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldimaur&show_icons=true&theme=dark)
+
 
 
 
