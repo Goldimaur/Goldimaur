@@ -1,6 +1,3 @@
-
-![gif from nerdy.dev](https://github.com/Goldimaur/Goldimaur/main/Goldiamur-sm2.gif?raw=true)
-
 ### Hi there , I'm Goldi Maurya 👋
 
 <a href="https://myoctocat.dev/@Goldimaur/octocat">
