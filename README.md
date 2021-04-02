@@ -1,5 +1,5 @@
 
-![gif from nerdy.dev](https://github.com/Goldimaur/Goldimaur/blob/main/Goldiamur-sm2.gif?raw=true)
+![gif from nerdy.dev](https://github.com/Goldimaur/Goldimaur/main/Goldiamur-sm2.gif?raw=true)
 
 ### Hi there , I'm Goldi Maurya 👋
 
