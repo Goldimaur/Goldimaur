@@ -10,6 +10,8 @@
 - 😄 Pronouns: Buddy/Friend . 
 - ⚡ Fun fact: love singing 	🎶 ( Black lover 🖤 ) . 
 
+https://goldimaur.github.io/Goldimaur.html/
+
 ![Goldimaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldimaur&theme=dark&show_icons=true)
 
 [![Github](https://img.shields.io/github/followers/Goldimaur?label=Follow&style=social)](https://github.com/Goldimaur)
