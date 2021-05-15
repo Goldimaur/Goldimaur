@@ -1,4 +1,6 @@
-#### Hi there , I'm Goldi Maurya 👋
+
+![image](https://user-images.githubusercontent.com/68438216/118367356-a44f3480-b5be-11eb-9923-14253561b6c3.png)
+
 
 <a href="https://myoctocat.dev/@Goldimaur/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=160 />
