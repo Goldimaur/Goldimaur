@@ -23,7 +23,12 @@ https://goldimaur.github.io/Goldimaur.html/
 
 ## 🧰 Languages and Tools:
 <p align="center">
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+  <a href="https://dev.to/goldimaur">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Goldimaur's DEV Community Profile" height="40" width="40">
+</a>
   
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
