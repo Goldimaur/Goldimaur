@@ -23,6 +23,9 @@ https://goldimaur.github.io/Goldimaur.html/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldimaur&layout=compact)](https://github.com/Goldimaur/github-readme-stats)
+
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
