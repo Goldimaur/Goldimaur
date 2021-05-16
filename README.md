@@ -20,6 +20,7 @@ https://goldimaur.github.io/Goldimaur.html/
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Goldimaur.Goldimaur)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 
